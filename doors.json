@@ -1,0 +1,74 @@
+[
+  {
+    "name": "atlantis",
+    "doors": [
+      {
+        "name": "Holo Room",
+        "material": "RED_CONCRETE",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 87,
+          "y": 140,
+          "z": 52
+        },
+        "direction": "s",
+        "offsets": [
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          }
+        ]
+      },
+      {
+        "name": "Conference Room",
+        "material": "RED_CONCRETE",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 87,
+          "y": 164,
+          "z": 52
+        },
+        "direction": "s",
+        "offsets": [
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          },
+          {
+            "x": 0,
+            "y": 5
+          }
+        ]
+      }
+    ]
+  }
+]
+

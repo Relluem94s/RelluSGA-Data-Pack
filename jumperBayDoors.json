@@ -1,0 +1,468 @@
+[
+  {
+    "name": "atlantis",
+    "doors": [
+      {
+        "name": "Jumper Bay Door #3",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 99,
+          "y": 177,
+          "z": 56
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door #2",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 99,
+          "y": 182,
+          "z": 56
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door #1",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 99,
+          "y": 212,
+          "z": 56
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "p043",
+    "doors": [
+      {
+        "name": "Jumper Bay Door A #5",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 28,
+          "z": -996
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door A #4",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 35,
+          "z": -996
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door A #3",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 69,
+          "z": -996
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door A #2",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 76,
+          "z": -996
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door A #1",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 83,
+          "z": -996
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door B #5",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 28,
+          "z": -958
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door B #4",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 35,
+          "z": -958
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door B #3",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 69,
+          "z": -958
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door B #2",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 76,
+          "z": -958
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door B #1",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1239,
+          "y": 83,
+          "z": -958
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 16
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          },
+          {
+            "x": -1,
+            "y": 17
+          }
+        ]
+      }
+    ]
+  }
+]

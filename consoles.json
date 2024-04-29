@@ -1,0 +1,409 @@
+[
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 128,
+      "y": 166,
+      "z": 56
+    },
+    "consoleArea": "ATLANTIS_CONTROL_ROOM",
+    "consoleType": "ATLANTIS_CONTROL_ROOM_DOORS",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 119,
+      "y": 165,
+      "z": 46
+    },
+    "consoleArea": "ATLANTIS_CONTROL_ROOM",
+    "consoleType": "ATLANTIS_CONTROL_ROOM_LIGHTS",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 87,
+      "y": 165,
+      "z": 47
+    },
+    "consoleArea": "ATLANTIS_CONFERENCE_ROOM",
+    "consoleType": "ATLANTIS_COMMON_DOOR",
+    "parameter": 1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 86,
+      "y": 165,
+      "z": 57
+    },
+    "consoleArea": "ATLANTIS_CONFERENCE_ROOM",
+    "consoleType": "ATLANTIS_COMMON_DOOR",
+    "parameter": 1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 87,
+      "y": 141,
+      "z": 47
+    },
+    "consoleArea": "ATLANTIS_HOLO_ROOM",
+    "consoleType": "ATLANTIS_COMMON_DOOR",
+    "parameter": 0
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 85,
+      "y": 141,
+      "z": 59
+    },
+    "consoleArea": "ATLANTIS_HOLO_ROOM",
+    "consoleType": "ATLANTIS_COMMON_DOOR",
+    "parameter": 0
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 78,
+      "y": 185,
+      "z": 65
+    },
+    "consoleArea": "ATLANTIS_JUMPER_BAY",
+    "consoleType": "ATLANTIS_JUMPER_BAY_DOORS",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 84,
+      "y": 159,
+      "z": 51
+    },
+    "consoleArea": "ATLANTIS_ZPM_ROOM",
+    "consoleType": "ATLANTIS_CONTROL_ROOM_LIGHTS",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 187,
+      "y": 41,
+      "z": 148
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 0
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 187,
+      "y": 53,
+      "z": 148
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 123,
+      "y": 62,
+      "z": 54
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 2
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 117,
+      "y": 80,
+      "z": 55
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 3
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 86,
+      "y": 93,
+      "z": 68
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 4
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 113,
+      "y": 111,
+      "z": 79
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 5
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 123,
+      "y": 123,
+      "z": 54
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 6
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 119,
+      "y": 135,
+      "z": 54
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 7
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 87,
+      "y": 159,
+      "z": 55
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 8
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 124,
+      "y": 185,
+      "z": 54
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": 9
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 195,
+      "y": 66,
+      "z": -386
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 117,
+      "y": 41,
+      "z": -46
+    },
+    "consoleArea": "ATLANTIS",
+    "consoleType": "ATLANTIS_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 78,
+      "y": 141,
+      "z": 50
+    },
+    "consoleArea": "ATLANTIS_HOLO_ROOM",
+    "consoleType": "ATLANTIS_HOLO_ROOM",
+    "parameter": -1
+  },
+  {
+  "location": {
+    "world": "stargate_rellu",
+    "x": 10008,
+    "y": 40,
+    "z": 9996
+  },
+  "consoleArea": "P010_OUTPOST_CONTROL_ROOM",
+  "consoleType": "SHIELD",
+  "parameter": 10
+},
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1212,
+      "y": 12,
+      "z": -949
+    },
+    "consoleArea": "P043_CITY_CONTROL_ROOM",
+    "consoleType": "SHIELD",
+    "parameter": 43
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 118,
+      "y": 165,
+      "z": 55
+    },
+    "consoleArea": "ATLANTIS_CONTROL_ROOM",
+    "consoleType": "SHIELD",
+    "parameter": 0
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 3136,
+      "y": 38,
+      "z": 20080
+    },
+    "consoleArea": "P014_UNDERGROUND_BASE_GATE_ROOM",
+    "consoleType": "SHIELD",
+    "parameter": 14
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 3143,
+      "y": 38,
+      "z": 20081
+    },
+    "consoleArea": "P014_UNDERGROUND_BASE_GATE_ROOM",
+    "consoleType": "P014_CONTROL_ROOM_LIGHTS",
+    "parameter": 14
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1012,
+      "y": 11,
+      "z": -1121
+    },
+    "consoleArea": "P041_CITY_CONTROL_ROOM",
+    "consoleType": "SHIELD",
+    "parameter": 41
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1019,
+      "y": 11,
+      "z": -1113
+    },
+    "consoleArea": "P041_CITY_CONTROL_ROOM",
+    "consoleType": "P041_CONTROL_ROOM_LIGHTS",
+    "parameter": 41
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1202,
+      "y": 13,
+      "z": -956
+    },
+    "consoleArea": "P043_CITY_CONTROL_ROOM",
+    "consoleType": "P043_CONTROL_ROOM_LIGHTS",
+    "parameter": 43
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1203,
+      "y": 4,
+      "z": -969
+    },
+    "consoleArea": "P043",
+    "consoleType": "P043_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1196,
+      "y": 12,
+      "z": -983
+    },
+    "consoleArea": "P043",
+    "consoleType": "P043_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1196,
+      "y": 38,
+      "z": -984
+    },
+    "consoleArea": "P043",
+    "consoleType": "P043_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1196,
+      "y": 54,
+      "z": -984
+    },
+    "consoleArea": "P043",
+    "consoleType": "P043_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1271,
+      "y": 38,
+      "z": -984
+    },
+    "consoleArea": "P043",
+    "consoleType": "P043_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1271,
+      "y": 54,
+      "z": -984
+    },
+    "consoleArea": "P043",
+    "consoleType": "P043_TRANSPORTER",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": -1206,
+      "y": 13,
+      "z": -948
+    },
+    "consoleArea": "P043_CITY_CONTROL_ROOM",
+    "consoleType": "P043_JUMPER_BAY_DOORS",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
+      "x": 9989,
+      "y": 40,
+      "z": 9997
+    },
+    "consoleArea": "P010_OUTPOST_GATE_ROOM",
+    "consoleType": "P010_CONTROL_ROOM_LIGHTS",
+    "parameter": 22
+  }
+]

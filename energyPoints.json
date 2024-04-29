@@ -1,0 +1,180 @@
+[
+  {
+    "name": "atlantis",
+    "energyPoints": [
+      {
+        "name": "Floor 0",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 187,
+          "y": 45,
+          "z": -19
+        }
+      },
+      {
+        "name": "Floor 1",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 187,
+          "y": 57,
+          "z": -19
+        }
+      },
+      {
+        "name": "Floor 2",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 120,
+          "y": 70,
+          "z": 64
+        }
+      },
+      {
+        "name": "Floor 3",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 103,
+          "y": 86,
+          "z": 75
+        }
+      },
+      {
+        "name": "Floor 4",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 99,
+          "y": 100,
+          "z": 66
+        }
+      },
+      {
+        "name": "Floor 5",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 120,
+          "y": 118,
+          "z": 64
+        }
+      },
+      {
+        "name": "Floor 6",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 120,
+          "y": 130,
+          "z": 64
+        }
+      },
+      {
+        "name": "Floor 7",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 113,
+          "y": 148,
+          "z": 53
+        }
+      },
+      {
+        "name": "Floor 8",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 113,
+          "y": 172,
+          "z": 53
+        }
+      },
+      {
+        "name": "Floor 9",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 120,
+          "y": 207,
+          "z": 55
+        }
+      },
+      {
+        "name": "Garden",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 187,
+          "y": 79,
+          "z": -380
+        }
+      }
+    ]
+  },
+  {
+    "name": "p010",
+    "energyPoints": [
+      {
+        "name": "Floor 0",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 9988,
+          "y": 36,
+          "z": 9990
+        }
+      },
+      {
+        "name": "Floor 1",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 9988,
+          "y": 49,
+          "z": 9999
+        }
+      }
+    ]
+  },
+  {
+    "name": "p014",
+    "energyPoints": [
+      {
+        "name": "Control Room",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 3137,
+          "y": 49,
+          "z": 20081
+        }
+      }
+    ]
+  },
+  {
+    "name": "p041",
+    "energyPoints": [
+      {
+        "name": "Control Room",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -987,
+          "y": 24,
+          "z": -1060
+        }
+      }
+    ]
+  },
+  {
+    "name": "p043",
+    "energyPoints": [
+      {
+        "name": "Floor 8",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1213,
+          "y": 19,
+          "z": -983
+        }
+      },
+      {
+        "name": "Floor 9",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1198,
+          "y": 70,
+          "z": -985
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "name": "atlantis",
+    "transporters": [
+      {
+        "name": "§bFloor #0",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 187.5,
+          "y": 40,
+          "z": 150.5,
+          "yaw": -180,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #1",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 187.5,
+          "y": 52,
+          "z": 150.5,
+          "yaw": -180,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #2",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 121.5,
+          "y": 61,
+          "z": 54.5,
+          "yaw": -90,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #3",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 117.5,
+          "y": 79,
+          "z": 57.5,
+          "yaw": -180,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #4",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 86.5,
+          "y": 92,
+          "z": 66.5,
+          "yaw": 0,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #5",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 113.5,
+          "y": 110,
+          "z": 77.5,
+          "yaw": 0,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #6",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 121.5,
+          "y": 122,
+          "z": 54.5,
+          "yaw": -90,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #7",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 119.5,
+          "y": 134,
+          "z": 56.5,
+          "yaw": -180,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #8",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 87.5,
+          "y": 158,
+          "z": 57.5,
+          "yaw": -180,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bFloor #9",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 124.5,
+          "y": 184,
+          "z": 56.5,
+          "yaw": -180,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bGarden",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 197.5,
+          "y": 65,
+          "z": -385.5,
+          "yaw": 90,
+          "pitch": 5
+        }
+      },
+      {
+        "name": "§bCafeteria",
+        "region": "atlantis",
+        "location": {
+          "world": "stargate_rellu",
+          "x": 119.5,
+          "y": 40,
+          "z": -45.5,
+          "yaw": 90,
+          "pitch": 5
+        }
+      }
+    ]
+  },
+  {
+    "name": "p043",
+    "transporters": [
+      {
+        "name": "§bGate Room",
+        "region": "p043",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1203.5,
+          "y": 3,
+          "z": -968.5,
+          "yaw": -90,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bControl Room",
+        "region": "p043",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1196.5,
+          "y": 11,
+          "z": -982.5,
+          "yaw": -90,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bJumper Bay A1",
+        "region": "p043",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1270.5,
+          "y": 37,
+          "z": -984.5,
+          "yaw": 0,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bJumper Bay B1",
+        "region": "p043",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1195.5,
+          "y": 37,
+          "z": -984.5,
+          "yaw": 0,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bJumper Bay A2",
+        "region": "p043",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1270.5,
+          "y": 53,
+          "z": -984.5,
+          "yaw": 0,
+          "pitch": 1
+        }
+      },
+      {
+        "name": "§bJumper Bay B2",
+        "region": "p043",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -1195.5,
+          "y": 53,
+          "z": -984.5,
+          "yaw": 0,
+          "pitch": 1
+        }
+      }
+    ]
+  }
+]

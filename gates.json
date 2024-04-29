@@ -1,0 +1,622 @@
+[
+  {
+    "id": 0,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 105,
+      "y": 159,
+      "z": 79
+    },
+    "name": "atlantis",
+    "description": "§bAtlantis our city §d§o§l(Water Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 1,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 9542,
+      "y": 67,
+      "z": 99569
+    },
+    "name": "p001",
+    "description": "§bFarm village §d§o§l(Mountain Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 2,
+    "location": {
+      "world": "stargate_rellu",
+      "x": -49923,
+      "y": 67,
+      "z": -9680
+    },
+    "name": "p002",
+    "description": "§bEgypt Village §d§o§l(Desert Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "w"
+  },
+  {
+    "id": 3,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 49936,
+      "y": 65,
+      "z": 10004
+    },
+    "name": "p003",
+    "description": "§bTrade Village §d§o§l(Desert Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "w"
+  },
+  {
+    "id": 4,
+    "location": {
+      "world": "stargate_rellu",
+      "x": -50138,
+      "y": 65,
+      "z": 9991
+    },
+    "name": "p004",
+    "description": "§bTrade Village §d§o§l(Plains Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "w"
+  },
+  {
+    "id": 5,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 30355,
+      "y": 78,
+      "z": 29654
+    },
+    "name": "p005",
+    "description": "§bFortress and Village §d§o§l(Plains Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 6,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 50146,
+      "y": 75,
+      "z": -9989
+    },
+    "name": "p006",
+    "description": "§bRuins in the Water §d§o§l(Water Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 7,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 9934,
+      "y": 22,
+      "z": -9957
+    },
+    "name": "p007",
+    "description": "§bRuins in the Sand §d§o§l(Desert Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "s"
+  },
+  {
+    "id": 8,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 5206,
+      "y": 57,
+      "z": 5015
+    },
+    "name": "p008",
+    "description": "§bNaquada Mines Village §d§o§l(Mountain Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 9,
+    "location": {
+      "world": "stargate_rellu",
+      "x": 5143,
+      "y": 146,
+      "z": -5010
+    },
+    "name": "p009",
+    "description": "§bVillage of Genii §d§o§l(Plains Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "s"
+  },
+  {
+    "id": 10,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 10000,
+      "y": 39,
+      "z": 10000
+    },
+    "name": "p010",
+    "description": "§bAncient outpost §d§o§l(Space)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 11,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": -30065,
+      "y": 39,
+      "z": -30124
+    },
+    "name": "p011",
+    "description": "§bUnused §d§o§l(Forest Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 12,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 5000,
+      "y": 37,
+      "z": -8999
+    },
+    "name": "p012",
+    "description": "§bAdvanced culture §d§o§l(Plains Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 13,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p013",
+    "description": "§b§d§o§l(Destroyed Planet)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": 0
+  },
+  {
+    "id": 14,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 3141,
+      "y": 37,
+      "z": 20089
+    },
+    "name": "p014",
+    "description": "§bCcave  §d§o§l(Secret base of the Ancients)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 15,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p015",
+    "description": "§bp015",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 16,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p016",
+    "description": "§bp016",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 17,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p017",
+    "description": "§bp017",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id":18,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p018",
+    "description": "§bp018",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 19,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p019",
+    "description": "§bp019",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 20,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p020",
+    "description": "§bp020",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 21,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p021",
+    "description": "§bp021",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 22,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p022",
+    "description": "§bp022",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 23,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p023",
+    "description": "§bp023",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 24,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p024",
+    "description": "§bp024",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 25,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p025",
+    "description": "§bp025",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 26,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p026",
+    "description": "§bp026",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 27,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p027",
+    "description": "§bp027",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 28,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p028",
+    "description": "§bp028",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 29,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p029",
+    "description": "§bp029",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 30,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p030",
+    "description": "§bp030",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 31,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p031",
+    "description": "§bp031",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 32,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p032",
+    "description": "§bp032",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 33,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p033",
+    "description": "§bp033",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 34,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p034",
+    "description": "§bp034",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 35,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p035",
+    "description": "§bp035",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 36,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p036",
+    "description": "§bp036",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 37,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p037",
+    "description": "§bp037",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 38,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p038",
+    "description": "§bp038",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 39,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p039",
+    "description": "§bp039",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 40,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 1,
+      "y": 0,
+      "z": 0
+    },
+    "name": "p040",
+    "description": "§bp040",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "e"
+  },
+  {
+    "id": 41,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": -983,
+      "y": 3,
+      "z": -1105
+    },
+    "name": "p041",
+    "description": "§bSmall Ancient City §d§o§l(Unknown)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "s"
+  },
+  {
+    "id": 42,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": 9878,
+      "y": 12,
+      "z": 100134
+    },
+    "name": "p042",
+    "description": "§bGate in Orbit §d§o§l(Space)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 43,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": -1232,
+      "y": 3,
+      "z": -922
+    },
+    "name": "p043",
+    "description": "§bBig Ancient City §d§o§l(Unknown)",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  },
+  {
+    "id": 44,
+    "location": {
+
+      "world": "stargate_rellu",
+      "x": -1116,
+      "y": 22,
+      "z": -1052
+    },
+    "name": "lanta",
+    "description": "§bThe Old Atlantis",
+    "material": "OAK_PRESSURE_PLATE",
+    "direction": "n"
+  }
+]
