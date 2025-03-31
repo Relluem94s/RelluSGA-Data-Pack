@@ -24,6 +24,17 @@
   {
     "location": {
       "world": "stargate_rellu",
+      "x": 128,
+      "y": 166,
+      "z": 54
+    },
+    "consoleArea": "ATLANTIS_CONTROL_ROOM",
+    "consoleType": "ATLANTIS_CONTROL_ROOM_EASTER_EGG",
+    "parameter": -1
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
       "x": 87,
       "y": 165,
       "z": 47
