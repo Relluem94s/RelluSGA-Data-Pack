@@ -6,9 +6,9 @@
       "y": 166,
       "z": 56
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_CONTROL_ROOM",
-    "consoleType": "CONTROL_ROOM_DOORS",
-    "parameter": 0
+    "consoleType": "CONTROL_ROOM_DOORS"
   },
   {
     "location": {
@@ -17,9 +17,9 @@
       "y": 165,
       "z": 46
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_CONTROL_ROOM",
-    "consoleType": "LIGHTS",
-    "parameter": 0
+    "consoleType": "LIGHTS"
   },
   {
     "location": {
@@ -28,9 +28,9 @@
       "y": 166,
       "z": 54
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_CONTROL_ROOM",
-    "consoleType": "ATLANTIS_CONTROL_ROOM_EASTER_EGG",
-    "parameter": -1
+    "consoleType": "ATLANTIS_CONTROL_ROOM_EASTER_EGG"
   },
   {
     "location": {
@@ -39,9 +39,9 @@
       "y": 165,
       "z": 47
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_CONFERENCE_ROOM",
-    "consoleType": "ATLANTIS_COMMON_DOOR",
-    "parameter": 1
+    "consoleType": "ATLANTIS_COMMON_DOOR"
   },
   {
     "location": {
@@ -50,9 +50,9 @@
       "y": 165,
       "z": 57
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_CONFERENCE_ROOM",
-    "consoleType": "ATLANTIS_COMMON_DOOR",
-    "parameter": 1
+    "consoleType": "ATLANTIS_COMMON_DOOR"
   },
   {
     "location": {
@@ -61,9 +61,9 @@
       "y": 141,
       "z": 47
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_HOLO_ROOM",
-    "consoleType": "ATLANTIS_COMMON_DOOR",
-    "parameter": 0
+    "consoleType": "ATLANTIS_COMMON_DOOR"
   },
   {
     "location": {
@@ -72,9 +72,9 @@
       "y": 141,
       "z": 59
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_HOLO_ROOM",
-    "consoleType": "ATLANTIS_COMMON_DOOR",
-    "parameter": 0
+    "consoleType": "ATLANTIS_COMMON_DOOR"
   },
   {
     "location": {
@@ -83,9 +83,9 @@
       "y": 185,
       "z": 65
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_JUMPER_BAY",
-    "consoleType": "JUMPER_BAY_DOORS",
-    "parameter": 0
+    "consoleType": "JUMPER_BAY_DOORS"
   },
   {
     "location": {
@@ -94,9 +94,9 @@
       "y": 159,
       "z": 51
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_ZPM_ROOM",
-    "consoleType": "LIGHTS",
-    "parameter": 0
+    "consoleType": "LIGHTS"
   },
   {
     "location": {
@@ -105,9 +105,9 @@
       "y": 41,
       "z": 148
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -116,9 +116,9 @@
       "y": 53,
       "z": 148
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -127,9 +127,9 @@
       "y": 62,
       "z": 54
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -138,9 +138,9 @@
       "y": 80,
       "z": 55
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -149,9 +149,9 @@
       "y": 93,
       "z": 68
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -160,9 +160,9 @@
       "y": 111,
       "z": 79
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -171,9 +171,9 @@
       "y": 123,
       "z": 54
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -182,9 +182,9 @@
       "y": 135,
       "z": 54
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -193,9 +193,9 @@
       "y": 159,
       "z": 55
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -204,9 +204,9 @@
       "y": 185,
       "z": 54
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -215,9 +215,9 @@
       "y": 66,
       "z": -386
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -226,9 +226,9 @@
       "y": 41,
       "z": -46
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS",
-    "consoleType": "TRANSPORTER",
-    "parameter": 0
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -237,9 +237,9 @@
       "y": 141,
       "z": 50
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_HOLO_ROOM",
-    "consoleType": "ATLANTIS_HOLO_ROOM",
-    "parameter": -1
+    "consoleType": "ATLANTIS_HOLO_ROOM"
   },
   {
   "location": {
@@ -248,9 +248,9 @@
     "y": 40,
     "z": 9996
   },
+    "gateId": 10,
   "consoleArea": "P010_OUTPOST_CONTROL_ROOM",
-  "consoleType": "SHIELD",
-  "parameter": 10
+  "consoleType": "SHIELD"
 },
   {
     "location": {
@@ -259,9 +259,9 @@
       "y": 12,
       "z": -949
     },
+    "gateId": 43,
     "consoleArea": "P043_CITY_CONTROL_ROOM",
-    "consoleType": "SHIELD",
-    "parameter": 43
+    "consoleType": "SHIELD"
   },
   {
     "location": {
@@ -270,9 +270,9 @@
       "y": 165,
       "z": 55
     },
+    "gateId": 0,
     "consoleArea": "ATLANTIS_CONTROL_ROOM",
-    "consoleType": "SHIELD",
-    "parameter": 0
+    "consoleType": "SHIELD"
   },
   {
     "location": {
@@ -281,9 +281,9 @@
       "y": 38,
       "z": 20080
     },
+    "gateId": 14,
     "consoleArea": "P014_UNDERGROUND_BASE_GATE_ROOM",
-    "consoleType": "SHIELD",
-    "parameter": 14
+    "consoleType": "SHIELD"
   },
   {
     "location": {
@@ -292,9 +292,9 @@
       "y": 38,
       "z": 20081
     },
+    "gateId": 14,
     "consoleArea": "P014_UNDERGROUND_BASE_GATE_ROOM",
-    "consoleType": "LIGHTS",
-    "parameter": 14
+    "consoleType": "LIGHTS"
   },
   {
     "location": {
@@ -303,9 +303,9 @@
       "y": 11,
       "z": -1121
     },
+    "gateId": 41,
     "consoleArea": "P041_CITY_CONTROL_ROOM",
-    "consoleType": "SHIELD",
-    "parameter": 41
+    "consoleType": "SHIELD"
   },
   {
     "location": {
@@ -314,9 +314,9 @@
       "y": 11,
       "z": -1113
     },
+    "gateId": 41,
     "consoleArea": "P041_CITY_CONTROL_ROOM",
-    "consoleType": "LIGHTS",
-    "parameter": 41
+    "consoleType": "LIGHTS"
   },
   {
     "location": {
@@ -325,9 +325,9 @@
       "y": 13,
       "z": -956
     },
+    "gateId": 43,
     "consoleArea": "P043_CITY_CONTROL_ROOM",
-    "consoleType": "LIGHTS",
-    "parameter": 43
+    "consoleType": "LIGHTS"
   },
   {
     "location": {
@@ -336,9 +336,9 @@
       "y": 4,
       "z": -969
     },
+    "gateId": 43,
     "consoleArea": "P043",
-    "consoleType": "TRANSPORTER",
-    "parameter": 43
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -347,9 +347,9 @@
       "y": 12,
       "z": -983
     },
+    "gateId": 43,
     "consoleArea": "P043",
-    "consoleType": "TRANSPORTER",
-    "parameter": 43
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -358,9 +358,9 @@
       "y": 38,
       "z": -984
     },
+    "gateId": 43,
     "consoleArea": "P043",
-    "consoleType": "TRANSPORTER",
-    "parameter": 43
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -369,9 +369,9 @@
       "y": 54,
       "z": -984
     },
+    "gateId": 43,
     "consoleArea": "P043",
-    "consoleType": "TRANSPORTER",
-    "parameter": 43
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -380,9 +380,9 @@
       "y": 38,
       "z": -984
     },
+    "gateId": 43,
     "consoleArea": "P043",
-    "consoleType": "TRANSPORTER",
-    "parameter": 43
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -391,9 +391,9 @@
       "y": 54,
       "z": -984
     },
+    "gateId": 43,
     "consoleArea": "P043",
-    "consoleType": "TRANSPORTER",
-    "parameter": 43
+    "consoleType": "TRANSPORTER"
   },
   {
     "location": {
@@ -402,9 +402,9 @@
       "y": 13,
       "z": -948
     },
+    "gateId": 43,
     "consoleArea": "P043_CITY_CONTROL_ROOM",
-    "consoleType": "CONTROL_ROOM_DOORS",
-    "parameter": 43
+    "consoleType": "CONTROL_ROOM_DOORS"
   },
   {
     "location": {
@@ -413,8 +413,8 @@
       "y": 40,
       "z": 9997
     },
+    "gateId": 10,
     "consoleArea": "P010_OUTPOST_GATE_ROOM",
-    "consoleType": "LIGHTS",
-    "parameter": 10
+    "consoleType": "LIGHTS"
   }
 ]
