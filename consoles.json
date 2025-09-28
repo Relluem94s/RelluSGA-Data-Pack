@@ -40,6 +40,7 @@
       "z": 47
     },
     "gateId": 0,
+    "doorId": 1,
     "consoleArea": "ATLANTIS_CONFERENCE_ROOM",
     "consoleType": "ATLANTIS_COMMON_DOOR"
   },
@@ -51,6 +52,7 @@
       "z": 57
     },
     "gateId": 0,
+    "doorId": 1,
     "consoleArea": "ATLANTIS_CONFERENCE_ROOM",
     "consoleType": "ATLANTIS_COMMON_DOOR"
   },
@@ -62,6 +64,7 @@
       "z": 47
     },
     "gateId": 0,
+    "doorId": 0,
     "consoleArea": "ATLANTIS_HOLO_ROOM",
     "consoleType": "ATLANTIS_COMMON_DOOR"
   },
@@ -73,6 +76,7 @@
       "z": 59
     },
     "gateId": 0,
+    "doorId": 0,
     "consoleArea": "ATLANTIS_HOLO_ROOM",
     "consoleType": "ATLANTIS_COMMON_DOOR"
   },
