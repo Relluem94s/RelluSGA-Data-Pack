@@ -108,9 +108,9 @@
         "material": "RED_WOOL",
         "location": {
           "world": "stargate_rellu",
-          "x": -979,
+          "x": -989,
           "y": 80,
-          "z": -1088
+          "z": -1101
         },
         "offsets": [
           {
@@ -140,9 +140,9 @@
         "material": "RED_WOOL",
         "location": {
           "world": "stargate_rellu",
-          "x": -979,
+          "x": -989,
           "y": 55,
-          "z": -1088
+          "z": -1101
         },
         "offsets": [
           {
@@ -172,9 +172,9 @@
         "material": "RED_WOOL",
         "location": {
           "world": "stargate_rellu",
-          "x": -979,
+          "x": -989,
           "y": 35,
-          "z": -1088
+          "z": -1101
         },
         "offsets": [
           {
@@ -204,9 +204,9 @@
         "material": "RED_WOOL",
         "location": {
           "world": "stargate_rellu",
-          "x": -979,
+          "x": -989,
           "y": 26,
-          "z": -1088
+          "z": -1101
         },
         "offsets": [
           {
