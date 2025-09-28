@@ -325,6 +325,17 @@
   {
     "location": {
       "world": "stargate_rellu",
+      "x": -1016,
+      "y": 11,
+      "z": -1120
+    },
+    "gateId": 41,
+    "consoleArea": "P041_CITY_CONTROL_ROOM",
+    "consoleType": "CONTROL_ROOM_DOORS"
+  },
+  {
+    "location": {
+      "world": "stargate_rellu",
       "x": -1202,
       "y": 13,
       "z": -956
