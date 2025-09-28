@@ -101,6 +101,139 @@
     ]
   },
   {
+    "name": "p041",
+    "doors": [
+      {
+        "name": "Jumper Bay Door #4",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -979,
+          "y": 80,
+          "z": -1088
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door #3",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -979,
+          "y": 55,
+          "z": -1088
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door #2",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -979,
+          "y": 35,
+          "z": -1088
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      },
+      {
+        "name": "Jumper Bay Door #1",
+        "material": "RED_WOOL",
+        "location": {
+          "world": "stargate_rellu",
+          "x": -979,
+          "y": 26,
+          "z": -1088
+        },
+        "offsets": [
+          {
+            "x": 0,
+            "y": 13
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -2,
+            "y": 15
+          },
+          {
+            "x": -3,
+            "y": 16
+          },
+          {
+            "x": -3,
+            "y": 16
+          }
+        ]
+      }
+    ]
+  },
+  {
     "name": "p043",
     "doors": [
       {
